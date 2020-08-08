@@ -3,3 +3,5 @@ node_modules
 package-lock.json
 completed_exercises
 diagrams
+test_MERGE_LL.js
+test_BUBBLE_OPT.js
